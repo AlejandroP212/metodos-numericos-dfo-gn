@@ -1,0 +1,85 @@
+ruido,problema,metodo,exitos_1e-1,exitos_1e-3,exitos_1e-5,mediana_brecha_f,mediana_Np_1e-3,corridas_radio_pequeno
+multiplicativo,Rosenbrock,DFO-GN Cauchy,0,0,0,2.0676736951539847,,10
+multiplicativo,Rosenbrock,DFO-GN QR,5,1,1,1.4567826084358417,68.0,9
+multiplicativo,Rosenbrock,GN exacto QR,10,10,10,5.4448823379983726e-15,27.5,0
+multiplicativo,Rosenbrock,GN exacto Cauchy,0,0,0,2.059501836177925,,10
+multiplicativo,Rosenbrock,GN dif. finitas QR,0,0,0,12.099999975924973,,10
+multiplicativo,Rosenbrock,Descenso gradiente,10,0,0,0.31774459466071847,,0
+multiplicativo,Freudenstein & Roth,DFO-GN Cauchy,0,0,0,25.637046932188532,,10
+multiplicativo,Freudenstein & Roth,DFO-GN QR,1,0,0,24.44924722314363,,10
+multiplicativo,Freudenstein & Roth,GN exacto QR,10,5,0,0.2703477656256936,13.0,10
+multiplicativo,Freudenstein & Roth,GN exacto Cauchy,0,0,0,25.114732684880348,,10
+multiplicativo,Freudenstein & Roth,GN dif. finitas QR,0,0,0,175.75787390342873,,10
+multiplicativo,Freudenstein & Roth,Descenso gradiente,10,0,0,14.56428970855088,,0
+multiplicativo,Helical Valley,DFO-GN Cauchy,6,3,0,3.7015080150322546,24.0,10
+multiplicativo,Helical Valley,DFO-GN QR,6,6,6,6.404904039292376e-13,32.5,4
+multiplicativo,Helical Valley,GN exacto QR,10,10,10,9.295785437010826e-16,15.0,0
+multiplicativo,Helical Valley,GN exacto Cauchy,10,0,0,1.5947086573410285,,10
+multiplicativo,Helical Valley,GN dif. finitas QR,0,0,0,1250.0000006473929,,10
+multiplicativo,Helical Valley,Descenso gradiente,10,10,0,0.5447872355426236,221.0,0
+multiplicativo,Bard,DFO-GN Cauchy,10,9,0,0.001029792272044193,11.0,10
+multiplicativo,Bard,DFO-GN QR,10,10,5,0.00015162799202636003,10.0,10
+multiplicativo,Bard,GN exacto QR,10,10,10,1.445049323022321e-07,6.0,10
+multiplicativo,Bard,GN exacto Cauchy,10,10,0,0.0009135316636758374,6.0,10
+multiplicativo,Bard,GN dif. finitas QR,0,0,0,20.83674087103141,,10
+multiplicativo,Bard,Descenso gradiente,10,10,0,0.0007791623653669189,28.0,0
+multiplicativo,Powell Singular,DFO-GN Cauchy,2,0,0,15.643765631992359,,10
+multiplicativo,Powell Singular,DFO-GN QR,8,7,7,1.4002568787419628e-07,16.0,7
+multiplicativo,Powell Singular,GN exacto QR,10,10,10,8.042413802513468e-13,5.0,0
+multiplicativo,Powell Singular,GN exacto Cauchy,10,10,1,0.007465885893349054,67.0,10
+multiplicativo,Powell Singular,GN dif. finitas QR,0,0,0,107.49999758666135,,10
+multiplicativo,Powell Singular,Descenso gradiente,10,10,10,0.0005071661605977341,127.0,0
+multiplicativo,Kowalik & Osborne,DFO-GN Cauchy,1,0,0,0.0006853723093830479,,10
+multiplicativo,Kowalik & Osborne,DFO-GN QR,9,5,0,3.789658932308769e-06,35.0,10
+multiplicativo,Kowalik & Osborne,GN exacto QR,10,9,7,1.1000576133010382e-08,7.0,10
+multiplicativo,Kowalik & Osborne,GN exacto Cauchy,10,0,0,0.00010057262003194107,,10
+multiplicativo,Kowalik & Osborne,GN dif. finitas QR,0,0,0,0.0025028333385431587,,10
+multiplicativo,Kowalik & Osborne,Descenso gradiente,10,0,0,6.54258826071046e-05,,0
+multiplicativo,Watson,DFO-GN Cauchy,5,0,0,0.9155715836145931,,10
+multiplicativo,Watson,DFO-GN QR,10,9,6,1.2709253271253433e-05,26.0,10
+multiplicativo,Watson,GN exacto QR,10,10,10,6.587732102804767e-08,8.0,10
+multiplicativo,Watson,GN exacto Cauchy,10,10,0,0.003909769819459232,25.0,10
+multiplicativo,Watson,GN dif. finitas QR,0,0,0,8.21427191774965,,10
+multiplicativo,Watson,Descenso gradiente,10,10,0,0.003403177320833044,81.0,0
+aditivo,Rosenbrock,DFO-GN Cauchy,0,0,0,2.0713934231905684,,10
+aditivo,Rosenbrock,DFO-GN QR,8,2,1,0.42141064291695596,45.5,10
+aditivo,Rosenbrock,GN exacto QR,10,10,10,4.751782810803984e-05,28.5,10
+aditivo,Rosenbrock,GN exacto Cauchy,0,0,0,2.057715896391481,,10
+aditivo,Rosenbrock,GN dif. finitas QR,0,0,0,12.10000088382972,,10
+aditivo,Rosenbrock,Descenso gradiente,10,0,0,0.33555064144659164,,0
+aditivo,Freudenstein & Roth,DFO-GN Cauchy,0,0,0,25.006624295741712,,10
+aditivo,Freudenstein & Roth,DFO-GN QR,5,0,0,16.976751736932997,,10
+aditivo,Freudenstein & Roth,GN exacto QR,10,10,0,0.018053556446886887,12.0,10
+aditivo,Freudenstein & Roth,GN exacto Cauchy,0,0,0,24.89772419746542,,10
+aditivo,Freudenstein & Roth,GN dif. finitas QR,0,0,0,175.75787670652142,,10
+aditivo,Freudenstein & Roth,Descenso gradiente,10,0,0,14.56384982259977,,0
+aditivo,Helical Valley,DFO-GN Cauchy,8,2,0,1.7304467358664013,26.0,10
+aditivo,Helical Valley,DFO-GN QR,10,10,10,0.00013135454528171413,36.0,10
+aditivo,Helical Valley,GN exacto QR,10,10,10,8.5572758885219e-05,15.0,10
+aditivo,Helical Valley,GN exacto Cauchy,10,1,0,1.5990929573071964,18.0,10
+aditivo,Helical Valley,GN dif. finitas QR,0,0,0,1249.9999964941608,,10
+aditivo,Helical Valley,Descenso gradiente,10,10,0,0.5447236248218084,221.0,0
+aditivo,Bard,DFO-GN Cauchy,10,10,0,0.001957957560924686,11.0,10
+aditivo,Bard,DFO-GN QR,10,10,0,0.0014340715842649037,8.5,10
+aditivo,Bard,GN exacto QR,10,10,10,0.00012182438218788418,6.0,10
+aditivo,Bard,GN exacto Cauchy,10,10,0,0.0011825061890594637,6.0,10
+aditivo,Bard,GN dif. finitas QR,0,0,0,20.836740286433784,,10
+aditivo,Bard,Descenso gradiente,10,10,0,0.0009132950631837154,29.0,0
+aditivo,Powell Singular,DFO-GN Cauchy,3,0,0,15.807208499752251,,10
+aditivo,Powell Singular,DFO-GN QR,7,6,3,0.0024678442147072596,18.5,10
+aditivo,Powell Singular,GN exacto QR,10,10,10,0.00017173886452118218,5.0,10
+aditivo,Powell Singular,GN exacto Cauchy,10,3,0,0.16123264616903893,71.0,10
+aditivo,Powell Singular,GN dif. finitas QR,0,0,0,107.49999965022383,,10
+aditivo,Powell Singular,Descenso gradiente,10,10,10,0.0005397607541745824,127.0,0
+aditivo,Kowalik & Osborne,DFO-GN Cauchy,0,0,0,0.0017862939711611094,,10
+aditivo,Kowalik & Osborne,DFO-GN QR,1,0,0,0.000778437428054229,,10
+aditivo,Kowalik & Osborne,GN exacto QR,2,0,0,0.001522134393892897,,10
+aditivo,Kowalik & Osborne,GN exacto Cauchy,1,0,0,0.0016015576444178828,,10
+aditivo,Kowalik & Osborne,GN dif. finitas QR,0,0,0,0.0025028334377113514,,10
+aditivo,Kowalik & Osborne,Descenso gradiente,10,0,0,7.178568171487047e-05,,0
+aditivo,Watson,DFO-GN Cauchy,1,0,0,2.658086029142283,,10
+aditivo,Watson,DFO-GN QR,10,7,0,0.005167463704234775,30.0,10
+aditivo,Watson,GN exacto QR,10,10,4,0.0001958441467941642,8.0,10
+aditivo,Watson,GN exacto Cauchy,10,3,0,0.010649684625214983,27.0,10
+aditivo,Watson,GN dif. finitas QR,0,0,0,8.214271717124973,,10
+aditivo,Watson,Descenso gradiente,10,10,0,0.003479901393398391,81.0,0

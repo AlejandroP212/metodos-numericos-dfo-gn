@@ -1,0 +1,43 @@
+num,problema,metodo,f_final,n_eval_r,n_eval_J,n_iter,motivo,Np_1e-1,Np_1e-3,Np_1e-5
+7,Rosenbrock,DFO-GN Cauchy,0.0020469878653937086,600,0,597,presupuesto,102,337,
+7,Rosenbrock,DFO-GN QR,0.0,75,0,57,f pequeña,16,68,71
+7,Rosenbrock,GN exacto QR,0.0,29,21,29,f pequeña,9,28,29
+7,Rosenbrock,GN exacto Cauchy,0.0008776833155904809,600,590,599,presupuesto,98,156,
+7,Rosenbrock,GN dif. finitas QR,0.0,71,0,29,f pequeña,23,68,71
+7,Rosenbrock,Descenso gradiente,0.15899649035471325,600,600,600,presupuesto,4,,
+13,Freudenstein & Roth,DFO-GN Cauchy,24.494007946661227,600,0,593,presupuesto,38,77,
+13,Freudenstein & Roth,DFO-GN QR,24.492126839877834,600,0,383,presupuesto,7,62,157
+13,Freudenstein & Roth,GN exacto QR,24.492126839620006,76,34,76,radio pequeño,5,12,19
+13,Freudenstein & Roth,GN exacto Cauchy,29.757431734245205,600,600,599,presupuesto,149,,
+13,Freudenstein & Roth,GN dif. finitas QR,24.49212683962,133,0,71,radio pequeño,15,32,45
+13,Freudenstein & Roth,Descenso gradiente,39.056026367974354,600,600,600,presupuesto,390,,
+9,Helical Valley,DFO-GN Cauchy,0.0031938848208682437,800,0,787,presupuesto,12,70,633
+9,Helical Valley,DFO-GN QR,8.700800598555755e-16,60,0,33,f pequeña,18,32,55
+9,Helical Valley,GN exacto QR,6.911652995756476e-21,18,14,18,f pequeña,6,15,16
+9,Helical Valley,GN exacto Cauchy,0.00029670070398506024,800,800,799,presupuesto,6,35,457
+9,Helical Valley,GN dif. finitas QR,6.904083217098e-21,60,0,18,f pequeña,24,48,52
+9,Helical Valley,Descenso gradiente,0.5447311154689014,800,800,800,presupuesto,4,221,
+15,Bard,DFO-GN Cauchy,0.00470908892292636,800,0,793,presupuesto,10,11,
+15,Bard,DFO-GN QR,0.00410743865328948,73,0,37,radio pequeño,8,13,14
+15,Bard,GN exacto QR,0.004107438653289486,12,11,12,radio pequeño,5,6,6
+15,Bard,GN exacto Cauchy,0.004749598044568739,800,800,799,presupuesto,5,6,
+15,Bard,GN dif. finitas QR,0.004107438653289481,69,0,27,radio pequeño,20,24,24
+15,Bard,Descenso gradiente,0.004886572183417765,800,800,800,presupuesto,5,28,
+11,Powell Singular,DFO-GN Cauchy,5.493464278696603e-05,1000,0,947,presupuesto,17,87,371
+11,Powell Singular,DFO-GN QR,1.59441503141556e-15,81,0,33,f pequeña,8,19,26
+11,Powell Singular,GN exacto QR,8.592982989594631e-13,14,14,14,f pequeña,4,5,7
+11,Powell Singular,GN exacto Cauchy,4.061756528266628e-06,1000,1000,999,presupuesto,4,67,214
+11,Powell Singular,GN dif. finitas QR,8.593628435996937e-13,70,0,14,f pequeña,20,25,35
+11,Powell Singular,Descenso gradiente,0.0005070542457656512,1000,1000,1000,presupuesto,2,127,729
+17,Kowalik & Osborne,DFO-GN Cauchy,0.00018256045495674577,1000,0,983,presupuesto,23,,
+17,Kowalik & Osborne,DFO-GN QR,0.00015375280192461862,144,0,56,radio pequeño,16,23,35
+17,Kowalik & Osborne,GN exacto QR,0.0001537528019246187,45,35,45,radio pequeño,5,7,8
+17,Kowalik & Osborne,GN exacto Cauchy,0.00018539626825998822,1000,1000,999,presupuesto,9,,
+17,Kowalik & Osborne,GN dif. finitas QR,0.00015375280192461853,182,0,46,radio pequeño,21,31,36
+17,Kowalik & Osborne,Descenso gradiente,0.00021918155804499006,1000,1000,1000,presupuesto,130,,
+19,Watson,DFO-GN Cauchy,0.004260720329337273,1400,0,1357,presupuesto,23,61,
+19,Watson,DFO-GN QR,0.0011438350267761908,262,0,82,radio pequeño,11,22,33
+19,Watson,GN exacto QR,0.0011438350267762047,28,17,28,radio pequeño,5,8,8
+19,Watson,GN exacto Cauchy,0.0043501313356538035,1400,1400,1399,presupuesto,7,24,
+19,Watson,GN dif. finitas QR,0.0011438350267762112,126,0,30,radio pequeño,35,56,56
+19,Watson,Descenso gradiente,0.004546876416355729,1400,1400,1400,presupuesto,6,81,
