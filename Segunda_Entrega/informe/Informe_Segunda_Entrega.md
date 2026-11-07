@@ -204,7 +204,7 @@ Nuestros resultados apoyan la motivación del artículo: la interpolación cuest
 
 ## Declaración de uso de inteligencia artificial
 
-Usamos Claude (Anthropic), modelo Claude Opus 5.5, como apoyo en la redacción inicial del código en Python, la propuesta de los experimentos y el primer borrador de este informe. Los resultados provienen de la ejecución del código. Como grupo, analizamos línea por línea que todo siguiera los lineamientos del curso.
+Usamos asistentes de inteligencia artificial como apoyo en distintas etapas del proyecto. Claude Sonnet 5.5 (Anthropic) se empleó en la redacción inicial del código en Python, la propuesta de los experimentos y el primer borrador de este informe. Los modelos DeepSeek V4.1 Flash y DeepSeek V4 Pro se usaron en la revisión cruzada del documento, el ajuste de su estructura a los lineamientos de la entrega y la verificación de la reproducibilidad. Los resultados provienen de la ejecución del código. Como grupo, analizamos línea por línea que todo siguiera los lineamientos del curso.
 
 ## Referencias
 
