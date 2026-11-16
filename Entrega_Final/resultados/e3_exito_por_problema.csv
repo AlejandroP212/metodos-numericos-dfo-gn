@@ -1,0 +1,22 @@
+ruido,problema,DFO-GN QR + ρ,DFO-GN QR,GN dif. finitas QR,GN exacto QR
+multiplicativo,Rosenbrock,0.29,0.3,0.0,0.99
+multiplicativo,Freudenstein & Roth,0.01,0.0,0.0,0.64
+multiplicativo,Helical Valley,0.74,0.41,0.0,1.0
+multiplicativo,Bard,1.0,1.0,0.0,1.0
+multiplicativo,Powell Singular,1.0,0.68,0.0,1.0
+multiplicativo,Kowalik & Osborne,0.75,0.57,0.0,0.99
+multiplicativo,Watson,1.0,0.9,0.0,1.0
+aditivo,Rosenbrock,0.21,0.19,0.0,1.0
+aditivo,Freudenstein & Roth,0.02,0.01,0.0,1.0
+aditivo,Helical Valley,1.0,0.95,0.0,1.0
+aditivo,Bard,1.0,1.0,0.0,1.0
+aditivo,Powell Singular,1.0,0.73,0.0,1.0
+aditivo,Kowalik & Osborne,0.0,0.0,0.0,0.0
+aditivo,Watson,0.94,0.44,0.0,1.0
+uniforme,Rosenbrock,0.39,0.23,0.0,1.0
+uniforme,Freudenstein & Roth,0.0,0.0,0.0,0.71
+uniforme,Helical Valley,0.74,0.49,0.0,1.0
+uniforme,Bard,1.0,1.0,0.0,1.0
+uniforme,Powell Singular,1.0,0.7,0.0,1.0
+uniforme,Kowalik & Osborne,0.71,0.61,0.0,0.99
+uniforme,Watson,1.0,0.81,0.0,1.0

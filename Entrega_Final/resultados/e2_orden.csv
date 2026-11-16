@@ -1,0 +1,22 @@
+problema,metodo,orden_p
+Rosenbrock,GN exacto QR,nan
+Rosenbrock,DFO-GN QR,nan
+Rosenbrock,DFO-GN QR + ρ,nan
+Freudenstein & Roth,GN exacto QR,0.12630873753721325
+Freudenstein & Roth,DFO-GN QR,2.049815459628205
+Freudenstein & Roth,DFO-GN QR + ρ,2.0469087224037357
+Helical Valley,GN exacto QR,nan
+Helical Valley,DFO-GN QR,0.6461328408499725
+Helical Valley,DFO-GN QR + ρ,0.7423836189289579
+Bard,GN exacto QR,1.0194420080704312
+Bard,DFO-GN QR,0.5510402678906321
+Bard,DFO-GN QR + ρ,0.34294857419769975
+Powell Singular,GN exacto QR,1.0808029516044455
+Powell Singular,DFO-GN QR,2.021206158016963
+Powell Singular,DFO-GN QR + ρ,1.1965499139760982
+Kowalik & Osborne,GN exacto QR,1.0002939692129178
+Kowalik & Osborne,DFO-GN QR,0.37158391818046915
+Kowalik & Osborne,DFO-GN QR + ρ,0.501372349782247
+Watson,GN exacto QR,1.003746866765311
+Watson,DFO-GN QR,1.0003483452448867
+Watson,DFO-GN QR + ρ,0.5192131048705232
